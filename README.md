@@ -4,3 +4,15 @@ The project is a website built using the Django web framework, which showcases a
 
 One of the notable features of the website is the integration with a Dialogflow chatbot. Dialogflow is a natural language processing platform that enables the implementation of conversational interfaces. By integrating Dialogflow, the website incorporates a chatbot functionality, allowing users to engage in interactive conversations regarding ice cream flavors, ingredients, recommendations, or any other related inquiries.
 
+![](https://github.com/vishwagandhi1610/tmb-website/blob/main/static/output/Screen%20Shot%202023-06-25%20at%209.56.15%20PM.png)
+
+![](https://github.com/vishwagandhi1610/tmb-website/blob/main/static/output/Screen%20Shot%202023-06-25%20at%209.56.40%20PM.png)
+
+![](https://github.com/vishwagandhi1610/tmb-website/blob/main/static/output/Screen%20Shot%202023-06-25%20at%209.57.10%20PM.png)
+
+![](https://github.com/vishwagandhi1610/tmb-website/blob/main/static/output/Screen%20Shot%202023-06-25%20at%209.57.25%20PM.png)
+
+![](https://github.com/vishwagandhi1610/tmb-website/blob/main/static/output/Screen%20Shot%202023-06-25%20at%209.58.48%20PM.png)
+
+![](https://github.com/vishwagandhi1610/tmb-website/blob/main/static/output/Screen%20Shot%202023-06-25%20at%209.59.06%20PM.png)
+
