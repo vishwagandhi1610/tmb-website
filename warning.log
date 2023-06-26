@@ -1,0 +1,236 @@
+
+
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'flavours': 'chocolate'}
+print.......['flavours']
+list.......[['flavours']]
+Insisdddeeeeeee
+We have the action
+It is here
+-----------------{'icetype': 'scoop'}
+print.......['icetype']
+list.......[['flavours'], ['icetype']]
+You have both the parameters.....
+.........values of dict..........[['chocolate'], ['scoop']]
+,,,,,,,,,,,,chocolate
+I am in yes...........
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['flavours'], ['icetype'], ['icetype']]
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view home.views.webhook didn't return an HttpResponse object. It returned None instead.
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'softy'}
+print.......['icetype']
+list.......[['flavours'], ['icetype'], ['icetype'], ['icetype']]
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view home.views.webhook didn't return an HttpResponse object. It returned None instead.
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'softy'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'chocolate'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['softy'], ['chocolate']]
+,,,,,,,,,,,,softy
+,,,,,,,,,,,,chocolate
+I am in yes...........
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'chocolate'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['family pack'], ['chocolate']]
+,,,,,,,,,,,,['family pack']
+,,,,,,,,,,,,['chocolate']
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view home.views.webhook didn't return an HttpResponse object. It returned None instead.
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'softy'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'chocolate'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['softy'], ['chocolate']]
+,,,,,,,,,,,,['softy']
+Not Found: /favicon.ico
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'orange'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['family pack'], ['orange']]
+,,,,,,,,,,,,['family pack']
+I am in yes...........
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\home\views.py", line 104, in webhook
+    if flavour.objects.filter(name=val[1]).exists():
+IndexError: list index out of range
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['icetype'], ['flavours'], ['icetype']]
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view home.views.webhook didn't return an HttpResponse object. It returned None instead.
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'chocolate'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['family pack'], ['chocolate']]
+,,,,,,,,,,,,['family pack']
+I am in yes...........
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\home\views.py", line 104, in webhook
+    if flavour.objects.filter(name=val[1]).exists():
+IndexError: list index out of range
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'softy'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'pista'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['softy'], ['pista']]
+,,,,,,,,,,,,['softy']
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'pista'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['family pack'], ['pista']]
+,,,,,,,,,,,,['family pack']
+I am in yes...........
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\home\views.py", line 104, in webhook
+    if flavour.objects.filter(name=val[1]).exists():
+IndexError: list index out of range
+Not Found: /dist/images/progress_spinner_grey.gif
+We have the action
+It is here
+-----------------{'icetype': 'family pack'}
+print.......['icetype']
+list.......[['icetype']]
+We have the action
+It is here
+-----------------{'flavours': 'pista'}
+print.......['flavours']
+list.......[['icetype'], ['flavours']]
+You have both the parameters.....
+.........values of dict..........[['family pack'], ['pista']]
+,,,,,,,,,,,,['family pack']
+I am in yes...........
+Internal Server Error: /webhook/
+Traceback (most recent call last):
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\env\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Vishwa Gandhi\Desktop\tms_project\day1\harryjango\home\views.py", line 104, in webhook
+    if flavour.objects.filter(name=val[1]).exists():
+IndexError: list index out of range
